@@ -10,7 +10,6 @@ An interactive expanding cards UI built with **HTML**, **CSS**, and **JavaScript
 - 💡 Simple, minimal, and modern design
 - ⚡ Smooth transitions using Flexbox
 - 🖱️ Click to expand and highlight a card
-- ✅ Mobile-friendly (hides extra cards on small screens)
 
 ---
 
