@@ -18,4 +18,4 @@ An interactive expanding cards UI built with **HTML**, **CSS**, and **JavaScript
 
 - HTML5
 - CSS3 (Flexbox, Transitions)
-- JavaScript (Vanilla JS)
+- JavaScript
